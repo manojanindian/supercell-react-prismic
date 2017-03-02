@@ -3,5 +3,5 @@ React Prismic using supercell build system
 
 To Run this POC simply type following commands in CMD.
 
-npm install
+npm install<br/>
 npm start
